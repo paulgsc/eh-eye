@@ -4,6 +4,13 @@
 
 ---
 
+## TL;DR
+
+**All content below gen by eh eye!** This is the only section gen by who man. tl;dr, op needs this because without it, 
+claude (freemium browser only. op can't afford to start a go fund me for a faang co.) makes op sad boi🤬
+
+---
+
 ## What Is This
 
 This repository contains a single markdown file.
